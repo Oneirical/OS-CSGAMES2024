@@ -387,7 +387,7 @@ Anyhow, I invite the UdeM team, who may be reading this, to open source their co
 
 # Special Thanks
 
-- Jaspreet, my teammate for this challenge. You may not know Rust, but I am glad you agreed to let me use it for our code. Your ideas and discussions really propelled the project forwards, and your idea near the end to use a web browser to test the connection removed so much stress off my shoulders!
+- [Jaspreet](https://github.com/Artypuppet), my teammate for this challenge. You may not know Rust, but I am glad you agreed to let me use it for our code. Your ideas and discussions really propelled the project forwards, and your idea near the end to use a web browser to test the connection removed so much stress off my shoulders!
 
 > "It's actually making me want to learn rust right now."
 
@@ -402,4 +402,5 @@ Anyhow, I invite the UdeM team, who may be reading this, to open source their co
 - *People to join my Northsec team - no large proficiency in security required, but the drive to learn about technology is mandatory*
 
 *Discord: oneirical*
+
 *Email: julien-robert@videotron.ca*
